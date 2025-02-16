@@ -1,4 +1,5 @@
 # Citrus Yield Prediction with Machine Learning
+![Citrus Yield Prediction Banner](img/Citrus_Banner_Desktop.jpg)
 
 
 This repository contains the implementation of a precision agriculture project aimed at predicting citrus crop yields. The work was conducted in collaboration with **Les Domaines Agricoles**, a leading agricultural company in Morocco, using a dataset from over 100 regions and 500 citrus parcels (2020–2023).
